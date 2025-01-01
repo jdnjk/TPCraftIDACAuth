@@ -1,5 +1,5 @@
 # 警告
-该项目已经弃坑，对于Minecraft Java服务器授权，我们已经使用YggdrasilAPI外置登录，详情请查看：[https://wiki.tpcraft.net/zh/TPCraftAPI/YggdrasilAPI](https://wiki.tpcraft.net/zh/TPCraftAPI/YggdrasilAPI)。
+该原作者已经弃坑，你不更，我来搞，先将品牌重塑。
 
 ## TPCraftIDAC Auth
 
